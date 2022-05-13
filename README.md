@@ -2,7 +2,7 @@
 
 These are my CodeWars solutions.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://www.codewars.com/users/EzieVee
 
 ![alt tag](https://images.pexels.com/photos/6424586/pexels-photo-6424586.jpeg?cs=srgb&dl=pexels-nemuel-sereti-6424586.jpg&fm=jpg)
 
