@@ -9,7 +9,7 @@ These are my CodeWars solutions.
 
 ## Optimizations
 
-I will occassionaly go back to my solution, and look for a more concise answer. At times, I will also try to approach my solution using different methods or modern approaches.
+I will occassionaly go back to my solution, and look for a more concise answer. At times, I will also try to approach my solutions using different methods, as well as revise lines for better readability.
 
 ## Lessons Learned:
 
