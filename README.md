@@ -13,5 +13,4 @@ I will occassionaly go back to my solution, and look for a more concise answer. 
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
+That there are multiple solutions for an question, and at times the answer isn't going to click right away, possibly even days until it does, and that's okay.
