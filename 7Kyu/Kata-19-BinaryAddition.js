@@ -9,3 +9,7 @@ The binary number returned should be a string.
 function addBinary(a,b){
   return (a+b).toString(2)
 }
+
+## Notes
+
+toString(2) converts a value into it's binary number
