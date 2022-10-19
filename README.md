@@ -9,8 +9,8 @@ These are my CodeWars solutions.
 
 ## Optimizations
 
-I will occassionaly go back to my solution, and look for a more concise answer. At times, I will also try to approach my solutions using different methods, as well as revise lines for better readability.
+I will go back to my solutions, and make adjustments for a  more concise, minimal data-friendly, and low space answer.
 
 ## Lessons Learned:
 
-That there are multiple solutions for an question, and at times the answer isn't going to click right away, possibly even days until it does, and that's okay.
+That there are multiple solutions for an question. And there's usually the right tool for the right job.
